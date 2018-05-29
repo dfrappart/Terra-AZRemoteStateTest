@@ -1,0 +1,1 @@
+#This config aims test the remote state in Azure Storage. However, since sensitive data are stored for the remote state, those information are probably not available in the repo
